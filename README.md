@@ -17,7 +17,7 @@ Amaç; Gemini’nin sade, modern ve akıcı arayüzünü yeniden oluşturmak ve 
 
 ---
 
-![Uygulama Videosu](./src/assets/gemini-clone.mp4)
+![Uygulama Videosu](./src/assets/gemini-clone.gif)
 
 ---
 
