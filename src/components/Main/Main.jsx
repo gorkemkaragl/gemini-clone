@@ -33,10 +33,10 @@ const Main = () => {
               <div
                 className="card"
                 onClick={() =>
-                  handleCardClick("Suggest Some Place To Visit In India.")
+                  handleCardClick("Suggest Some Place To Visit In Turkey.")
                 }
               >
-                <p>Suggest Some Place To Visit In India.</p>
+                <p>Suggest Some Place To Visit In Turkey.</p>
                 <img src={assets.compass_icon} alt="" />
               </div>
               <div
